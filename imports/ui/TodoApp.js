@@ -15,9 +15,6 @@ import { setTodos } from '/imports/redux/actions/todos'
 
 class TodoApp extends Component {
   render() {
-
-    console.log('render this.props',this.props);
-
     return (
       <div>
         TodoApp
